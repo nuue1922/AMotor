@@ -8,11 +8,6 @@
     <TabControl HorizontalAlignment="Left" Height="503" VerticalAlignment="Top" Width="758" Margin="0,0,0,-1">
         <TabItem Header="Исходные данные" FontSize="10">
             <Grid Background="#FFE5E5E5" Margin="0,0,-1,-6">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="215*"/>
-                    <ColumnDefinition Width="30*"/>
-                    <ColumnDefinition Width="346*"/>
-                </Grid.ColumnDefinitions>
                 <GroupBox Header="Исходные данные" HorizontalAlignment="Left" Height="162" Margin="10,10,0,0" VerticalAlignment="Top" Width="212" Grid.ColumnSpan="2"/>
                 <Button Content="Применить" HorizontalAlignment="Left" Margin="124,128,0,0" VerticalAlignment="Top" Width="75"/>
                 <TextBox HorizontalAlignment="Left" Height="23" Margin="90,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
